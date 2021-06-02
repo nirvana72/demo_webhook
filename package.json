@@ -1,0 +1,22 @@
+{
+  "name": "demo_webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirvana72/demo_webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirvana72/demo_webhook/issues"
+  },
+  "homepage": "https://github.com/nirvana72/demo_webhook#readme",
+  "dependencies": {
+    "dayjs": "^1.10.5"
+  }
+}
